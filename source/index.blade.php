@@ -3,5 +3,5 @@
 @section('body')
 <h1>Hello world!</h1>
 
-Test.
+Test!
 @endsection
