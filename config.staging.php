@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'baseUrl' => 'https://my-jigsaw-docs.com',
-    'production' => true,
+    'baseUrl' => 'http://jigsaw-docs-staging.tighten.co',
+    'production' => false,
 
     // DocSearch credentials
     'docsearchApiKey' => '',
